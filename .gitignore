@@ -1,0 +1,11 @@
+# PlatformIO
+.pio/
+
+# VS Code (mantém apenas recomendações de extensões)
+.vscode/*
+!.vscode/extensions.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
